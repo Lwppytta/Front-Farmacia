@@ -1,0 +1,18 @@
+#direita a{
+    display: block;
+}
+
+#direita .mae .filha{
+    left: auto;
+}
+
+.mae .filha a{
+    padding-bottom: 1vw;
+    padding-left: 1vw;
+    padding-right: 0.5vw;
+}
+
+.mae:hover .filha {
+    display: block;
+}
+
